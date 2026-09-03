@@ -1,0 +1,5 @@
+![Static Badge](https://img.shields.io/badge/powered-BarenAD-BarenAD)
+![GitHub top language](https://img.shields.io/github/languages/top/BarenAD/docker_vintage_story)
+![GitHub Repo stars](https://img.shields.io/github/stars/BarenAD/docker_vintage_story)
+![GitHub issues](https://img.shields.io/github/issues/BarenAD/docker_vintage_story)
+![Logotype](./src/assets/git/minecraft_whale_island_logo.png)
